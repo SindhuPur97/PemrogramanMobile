@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyIntent</string>
+    <string name="move">Move Activity</string>
+    <string name="move_data">Move Activity With Data</string>
+    <string name="call">Panggilan</string>
+    <string name="ini_adalah_activity_2">ini adalah activity move</string>
+    <string name="buka_browser">Website ITTP</string>
+    <string name="intent_eksplicit">intent eksplicit</string>
+    <string name="next">next</string>
+    <string name="activity_1">Activity 1</string>
+    <string name="activity_2">Activity 2</string>
+</resources>
