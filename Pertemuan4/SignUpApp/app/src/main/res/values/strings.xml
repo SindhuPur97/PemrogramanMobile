@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SignUpApp</string>
+    <string name="daftar">Sign Up</string>
+    <string name="user">Username</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="content_text">Amin studio adalah tempat untuk belajar pemrograman
+    perangkat bergerak baik dengan Android, Ios, maupun Windows Phone. Tidak Perlu khawatir jika
+    anda belum memiliki basic programming sebelumnya. Sebab disini anda akan diajari from zero to hero
+    dalam membuat aplikasi berbasis mobile. Segera daftarkan diri anda, minggu depan harga naik!</string>
+    <string name="sosmed">Sign Up With Social Media</string>
+</resources>

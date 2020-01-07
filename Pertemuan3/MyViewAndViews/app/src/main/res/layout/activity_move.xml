@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#eceff1"
+    tools:context=".MoveActivity">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorYellow">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="30dp"
+                android:layout_marginLeft="10dp"
+                android:orientation="vertical"
+                android:text="Donasi"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal"
+                android:textColor="@android:color/black"/>
+
+            </FrameLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="30dp"
+            android:text="Nama Anda"
+            android:textSize="15dp"
+            android:textColor="@android:color/black"/>
+
+
+            <EditText
+                android:layout_width="350dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:drawablePadding="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="30dp"
+                android:text="Email"
+                android:textSize="15dp"
+                android:textColor="@android:color/black"/>
+
+
+            <EditText
+                android:layout_width="350dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:drawablePadding="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="30dp"
+                android:text="Jumlah Donasi"
+                android:textSize="15dp"
+                android:textColor="@android:color/black"/>
+
+
+            <EditText
+                android:layout_width="350dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:drawablePadding="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="30dp"
+                android:text="Tambah Catatan"
+                android:textSize="15dp"
+                android:textColor="@android:color/black"/>
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_marginRight="@dimen/horizontal_layout"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="@dimen/vertical_layout"
+                android:layout_marginBottom="@dimen/vertical_layout"/>
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="@dimen/vertical_layout"
+            android:layout_marginTop="@dimen/vertical_layout"
+            android:background="@color/colorPrimary"
+            android:text="Pembayaran"/>
+
+
+    </LinearLayout>
+
+</ScrollView>
