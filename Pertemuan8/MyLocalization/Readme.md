@@ -1,0 +1,6 @@
+![Screenshot_2020-01-08-09-40-24-671_com example mylocalization](https://user-images.githubusercontent.com/44023418/72032510-2a1fe900-32c2-11ea-9e5a-c2b5dfc294d0.jpg)
+![Screenshot_2020-01-08-09-40-27-894_com example mylocalization](https://user-images.githubusercontent.com/44023418/72032511-2ab87f80-32c2-11ea-900b-5a4802180809.jpg)
+![Screenshot_2020-01-08-09-39-01-948_com example mylocalization](https://user-images.githubusercontent.com/44023418/72032512-2ab87f80-32c2-11ea-83a0-0249b5f0e0b4.jpg)
+![Screenshot_2020-01-08-09-39-10-211_com example mylocalization](https://user-images.githubusercontent.com/44023418/72032513-2b511600-32c2-11ea-8a41-b6f9a8baf951.jpg)
+![Screenshot_2020-01-08-09-39-41-057_com example mylocalization](https://user-images.githubusercontent.com/44023418/72032514-2b511600-32c2-11ea-8db9-559d38c8dcd9.jpg)
+![Screenshot_2020-01-08-09-39-45-535_com example mylocalization](https://user-images.githubusercontent.com/44023418/72032515-2b511600-32c2-11ea-913b-99d93ed487a8.jpg)
